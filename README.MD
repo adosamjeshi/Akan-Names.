@@ -20,7 +20,7 @@ This project is deployed in GitHub. You can find the live link at: https://adosa
 
 ##PROJECT SETUP
 
-- To access the website online, you only need a modern browser and visit the website [here](https://feisalahmed.github.io/Akan-Names/)
+- To access the website online, you only need a modern browser and visit the website [here](https://adosamjeshi.github.io/Akan-calculator/)
 - To use the website offline, just clone it and move to the root folder and open ```index.html```
 - To clone the app for use offline, in the terminal, type the following:
 ```bash
