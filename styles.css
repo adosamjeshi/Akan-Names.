@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+    body{
+     font-size:solid;
+     flex-direction: column;
+     background-image:url(https://bit.ly/2SRVAg0);
+     background-repeat: no-repeat;
+     text-align: center;
+     background-attachment: fixed;
+     background-size: cover;
+     font-family: 'Anton', sans-serif;
+     display: flex;
+     color: white;
+     overflow-x: hidden;
+     flex-flow: wrap-reverse;
+     height:170vh ;
+     width: 200vh;
+     
+    
+ }
+ #description{
+     padding: 0;
+ }
+ .gender{
+      display: inline;
+      text-align: center;
+      display:inline;
+    padding: 30px;
+    justify-content: space-between;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    border-bottom: 1px solid #4caf50;
+      
+  }
+  #button{
+      display:inline-block;
+      text-align: left;
+      justify-content: space-between;
+      width: 100%;
+      overflow: hidden;
+      font-size: 20px;
+      padding: 8px 0;
+      border-bottom: 1px solid #4caf50;
+      color: white;
+    
+  }
+.textbox{
+    display:block;
+    padding: 30px;
+    justify-content: space-between;
+    width: 100%;
+    overflow: hidden;
+    font-size: 40px;
+    padding: 8px;
+    border-bottom: 1px solid #4caf50;
+}
+.login-box{
+    width: 280px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    bottom:50%;
+    right:50%;
+    transform: translate(-50%, 50%);
+    padding-top:0;
+    margin-right: 20%;
+    text-align: center;
+    
+    
+}
+.login-box,h1{
+    float: left;
+    font-size: 50px;
+    border-bottom: 6px solid #4caf50;
+    margin-bottom: 50px;
+
+}
+.btn{
+    width: 100%;
+    background: none;
+    border: 2px solid #4caf50;
+    padding: 5px;
+    font-size: 24px;
+    cursor: pointer;
+    margin: 12px 0;
+    color: orange;
+}
+ .active{
+    font-size: 30px;
+    text-align: center;
+    margin-right: 20%;
+}
+
